@@ -1,0 +1,21 @@
+{
+    "name": "cucumber-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node node_modules/cucumber/bin/cucumber.js"
+    },
+    "author": "Ricky Hussmann <ricky.hussmann@gmail.com>",
+    "repopsitory": "",
+    "license": "ISC",
+    "dependencies": {
+        "eslint": "^2.8.0"
+    },
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "chromedriver": "^2.21.2",
+        "cucumber": "^0.10.2",
+        "selenium-webdriver": "^2.53.1"
+    }
+}
